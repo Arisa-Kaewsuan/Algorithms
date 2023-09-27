@@ -1,8 +1,10 @@
 
-public class Binary_Search_Tree {
+public class Binary_Search_Tree 
+{
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
+		
 
 	}
 
