@@ -11,5 +11,7 @@
 	<classpathentry kind="src" path="Dynamic_Programming"/>
 	<classpathentry kind="src" path="Greedy"/>
 	<classpathentry kind="src" path="State_Space_Search"/>
+	<classpathentry kind="src" path="Travelling_Salesman_Problem"/>
+	<classpathentry kind="src" path="Backtracking"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
